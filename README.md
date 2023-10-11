@@ -1,4 +1,4 @@
-![edit-image](https://github.com/vikrams-official/vikrams_official/assets/121781700/853bd521-fac5-4cca-91ae-95c9a9c0e957)
+![edit-image](https://github.com/vikrams-official/README.md/assets/121781700/523dfa26-087e-4aac-a440-88fdfa3a5e61)
 
 <h1 align="center">Greetings! I am... VIKRAM S</h1>
 <h3 align="center">I am Ethical Hacker | Certified Bug Hunter | Cyber Security Researcher</h3>
