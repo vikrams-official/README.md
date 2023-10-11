@@ -1,5 +1,6 @@
-
-![edit-image-hadbomb com](https://github.com/vikrams-official/README.md/assets/121781700/0c61c41e-427f-4a28-a3d0-bebf6e81c0e2)
+<div align="center">
+  <img src="https://github.com/vikrams-official/README.md/assets/121781700/0c61c41e-427f-4a28-a3d0-bebf6e81c0e2" alt="edit-image-hadbomb com">
+</div>
 
 <h1 align="center">Greetings! I am... VIKRAM S</h1>
 <h3 align="center">I am Ethical Hacker | Certified Bug Hunter | Cyber Security Researcher</h3>
